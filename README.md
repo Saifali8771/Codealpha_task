@@ -3,11 +3,11 @@
 
 
 ## Demo Website
-👉 Live Demo :https://piza-delivery-shop.herokuapp.com/
+👉 Live Demo :https://piza-delivery-shop.com/
 
 ## Run Locally 🚀
 
-- git clone git@github.com/AbdulWahab0/Pizza-Shop.git
+- git clone git@github.com/Pizza-Shop.git
 - cd Piz-Shop
 - Run Backend
   - npm install
